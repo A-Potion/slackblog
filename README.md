@@ -1,2 +1,2 @@
 # slackblog
-A tool for blogging from Slack.
+A blog for slackers.
